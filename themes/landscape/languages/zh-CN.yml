@@ -18,7 +18,6 @@ rss_feed: RSS Feed
 category: Category
 tag: Tag
 
-menu:
-  home: 首页
-  archives: 归档
-  about: 关于
+home: 首页
+archives: 归档
+about: 关于

@@ -1,7 +1,7 @@
 # Header
 menu:
   Home: /
-  about: /about
+  about: / about
   Archives: /archives
 rss: /atom.xml
 
@@ -10,7 +10,7 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: right
+sidebar: left
 widgets:
 - category
 - tag
