@@ -1,8 +1,21 @@
 ---
-title: Hello World
+title: 老白量化实盘成立
+tags: 实盘报告
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-# test
+## 账号说明
+- 成立时间：2020-10-30
+- 账号起步资金：196317
+- 当日上证指数：3224.53
 
-## test 2
+## 净值情况
+- 份数：196317
+- 净值：1
+- 收益率：0
+
+## 策略说明
+1. 本计划主要是使用北上资金的持仓追踪
+2. 上轨买入，下轨清仓，非高频交易，历史看有长达4个月不交易的情况
+3. 模型最近2年表现非常好，预计2021年可以继续延续
+4. 模型非激进型策略，追求保本的基础上增加收益，回测年化40%左右，仅代表历史数据
+5. 在2021年会研究最新的模型，进行升级
