@@ -1,7 +1,5 @@
 ---
 title: 部署说明
-title: 
-date: 2020/10/30
 tags: 日记
 ---
 
